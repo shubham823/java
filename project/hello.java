@@ -1,8 +1,8 @@
 public class hello{
-
-
-
 	public static void main (String Args[]){
-		System.out.print("hello");
+		System.out.println("hello master");
+		
+
+
 	}
 }
